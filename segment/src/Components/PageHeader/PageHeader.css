@@ -1,0 +1,40 @@
+.page-header-container {
+  display: flex;
+  align-items: center;
+  height: 72px;
+  width: 50vw;
+  padding: 0px 40px;
+  background-color: #2f4f4f;
+  @media only screen and (max-width: 640px) {
+    padding: 20px;
+  }
+}
+.popup-header-container {
+  display: flex;
+  align-items: center;
+  height: 72px;
+  padding: 20px;
+  background-color: #39afbd;
+
+  @media only screen and (max-width: 640px) {
+    padding: 20px;
+  }
+}
+i {
+  margin-right: 20px;
+  color: #462d2d;
+  cursor: pointer;
+  @media only screen and (max-width: 640px) {
+    margin-right: 10px;
+  }
+}
+.page-header-text {
+  font-size: 20px;
+  font-weight: 600;
+  color: #ffffff;
+
+  @media only screen and (max-width: 640px) {
+    margin: 10px;
+    font-size: 16px;
+  }
+}
