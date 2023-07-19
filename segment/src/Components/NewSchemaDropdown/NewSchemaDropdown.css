@@ -1,0 +1,10 @@
+.new-schema-container
+    {
+    border: 2px solid;
+    border-color: #39afbd;
+    padding: 10px 0px;
+    margin-left: 10px;
+    margin-right: 13px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
